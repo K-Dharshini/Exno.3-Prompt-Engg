@@ -1,5 +1,5 @@
-**Developed by: DHARSHINI K**  
-**Register Number: 212223230047**  
+# Developed by: DHARSHINI K
+# Register Number: 212223230047  
 
 # Ex. No. 3 – Scenario-Based Report Development Utilizing Diverse Prompting Techniques  
 
