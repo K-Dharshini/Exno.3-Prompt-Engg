@@ -51,9 +51,6 @@ To design an AI-powered chatbot that assists customers in resolving issues relat
 **Chatbot:** Since you mentioned that your package hasn’t arrived, let me check the shipping details for you. It looks like it’s out for delivery and should reach you by tomorrow.
 
 ## Result  
-The chatbot was successfully able to respond to different customer queries using **Straightforward Prompts, Tabular Format Prompting, Missing Word Prompting, and Preceding Question Prompting**. 
-
-## Conclusion  
-Thus, the experiment of developing scenario-based chatbot responses using multiple prompting techniques such as straightforward prompts, tabular prompts, missing word prompts, and preceding question prompts was executed successfully.  
+The chatbot was successfully able to respond to different customer queries using **Straightforward Prompts, Tabular Format Prompting, Missing Word Prompting, and Preceding Question Prompting**. Thus, the experiment of developing scenario-based chatbot responses using multiple prompting techniques such as straightforward prompts, tabular prompts, missing word prompts, and preceding question prompts was executed successfully.
 
 ---
